@@ -1,0 +1,5 @@
+#!/bin/bash
+
+wget https://vrijeme.hr/hrvatska1_n.xml
+grep -A 12 "#PLACEHOLDER#" hrvatska1_n.xml 
+rm hrvatska1_n.xml
