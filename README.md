@@ -7,3 +7,5 @@ if you want to check names of weather stations you can download the file im pull
 after you change the PLACEHOLDER to the name of your city, you should run chmod +x weather && chmod +x weather-dmenu
 you should put this program into /usr/bin, /bin or ~/.local/bin up to you!
 
+DHMZ is the source of this data!
+
