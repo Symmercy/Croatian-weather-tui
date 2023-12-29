@@ -3,3 +3,5 @@
 wget https://vrijeme.hr/hrvatska1_n.xml
 grep -A 12 "#PLACEHOLDER#" hrvatska1_n.xml |dmenu -l 12
 rm hrvatska1_n.xml
+
+#DHMZ is the source of this data!
